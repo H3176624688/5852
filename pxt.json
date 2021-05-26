@@ -1,0 +1,33 @@
+{
+    "name": "585",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.5.16",
+        "tag": "v1.5.16",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/00ad6760d6a16e60c753223079dedab358e0dc53",
+        "target": "1.5.18",
+        "pxt": "6.13.36",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
